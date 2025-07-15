@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi 👋 My name is **Constantine**  
 
-<!--
-**ConstantineCTF/ConstantineCTF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ethical Hacker | Red Team Member**  
 
-Here are some ideas to get you started:
+I’m a passionate ethical hacker and red team enthusiast with a deep commitment to securing systems through advanced penetration testing, vulnerability assessment, and adversary emulation. My journey started with a curiosity for technology and has evolved into a mission to master skills like exploit development, network security analysis, and post-exploitation techniques. I thrive on uncovering weaknesses before they can be exploited, designing robust defenses, and staying ahead of modern threats.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ✉️ You can contact me at: Constantine.ctf@proton.me*
+
+### Certifications
+
+- eLearnSecurity Junior Penetration Tester (eJPT)
+- Offensive Security Certified Professional (OSCP)
+- AWS Certified Security – Specialty
+
+### Skills
+
+- Penetration Testing
+- Vulnerability Assessment
+- Network Security Analysis
+- Social Engineering
+- Exploit Development
+- Reverse Engineering
+- Web Application Security
+- Wireless Network Hacking
+- Incident Response
+- Threat Modeling
+- Phishing Campaign Design
+- Privilege Escalation
+- Post-Exploitation Techniques
+- Cryptography Basics
+- Security Auditing
+- Risk Assessment
+- Red Team Operations
+- Adversary Emulation
+- Secure Coding Practices
+- Forensic Analysis
