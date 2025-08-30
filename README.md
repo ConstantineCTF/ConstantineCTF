@@ -2,9 +2,9 @@ Hi 👋 My name is **Constantine**
 
 **Ethical Hacker | Red Team Operator | Security Researcher**  
 
-I’m a dedicated cybersecurity professional specializing in offensive security and red team operations. My mission is to proactively identify, exploit, and remediate vulnerabilities before they can be weaponized. With hands-on experience in penetration testing, adversary emulation, and exploit development, I combine technical expertise with a passion for strengthening security at every layer.  
+I am a cybersecurity professional focused on offensive security and red team operations. My expertise lies in uncovering vulnerabilities, simulating real-world adversaries, and strengthening defenses through advanced penetration testing and exploit development. I approach every engagement with a blend of technical precision and adversarial creativity, with the goal of helping organizations stay resilient against evolving cyber threats.  
 
-* ✉️ Reach me at: **Constantine.ctf@proton.me**  
+* ✉️ Reach me at: **constantine.ctf@proton.me**  
 
 ---
 
