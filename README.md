@@ -1,36 +1,28 @@
 Hi 👋 My name is **Constantine**  
 
-**Ethical Hacker | Red Team Member**  
+**Ethical Hacker | Red Team Operator | Security Researcher**  
 
-I’m a passionate ethical hacker and red team enthusiast with a deep commitment to securing systems through advanced penetration testing, vulnerability assessment, and adversary emulation. My journey started with a curiosity for technology and has evolved into a mission to master skills like exploit development, network security analysis, and post-exploitation techniques. I thrive on uncovering weaknesses before they can be exploited, designing robust defenses, and staying ahead of modern threats.  
+I’m a dedicated cybersecurity professional specializing in offensive security and red team operations. My mission is to proactively identify, exploit, and remediate vulnerabilities before they can be weaponized. With hands-on experience in penetration testing, adversary emulation, and exploit development, I combine technical expertise with a passion for strengthening security at every layer.  
 
-* ✉️ You can contact me at: Constantine.ctf@proton.me*
+* ✉️ Reach me at: **Constantine.ctf@proton.me**  
 
-### Certifications
+---
 
-- eLearnSecurity Junior Penetration Tester (eJPT)
-- Offensive Security Certified Professional (OSCP)
-- AWS Certified Security – Specialty
+### 📜 Certifications
+- **eJPT** – eLearnSecurity Junior Penetration Tester  
+- **OSCP** – Offensive Security Certified Professional  
+- **CompTIA Security+**  
+- **CCNA** – Cisco Certified Network Associate  
+- **AWS Certified Security – Specialty**  
+- **AWS Certified Solutions Architect – Associate**  
+- **CISSP** – Certified Information Systems Security Professional  
+- **CCSP** – Certified Cloud Security Professional  
 
-### Skills
+---
 
-- Penetration Testing
-- Vulnerability Assessment
-- Network Security Analysis
-- Social Engineering
-- Exploit Development
-- Reverse Engineering
-- Web Application Security
-- Wireless Network Hacking
-- Incident Response
-- Threat Modeling
-- Phishing Campaign Design
-- Privilege Escalation
-- Post-Exploitation Techniques
-- Cryptography Basics
-- Security Auditing
-- Risk Assessment
-- Red Team Operations
-- Adversary Emulation
-- Secure Coding Practices
-- Forensic Analysis
+### 🛠️ Core Competencies
+- **Offensive Security:** Penetration Testing, Red Teaming, Exploit Development, Social Engineering, Post-Exploitation  
+- **Application & Network Security:** Web App Security, Secure Coding, Wireless Security, Network Analysis  
+- **Threat & Risk Management:** Threat Modeling, Risk Assessment, Security Auditing, Incident Response  
+- **Advanced Techniques:** Reverse Engineering, Privilege Escalation, Phishing Campaign Design, Adversary Emulation  
+- **Cloud & Systems Security:** AWS Security, Cloud Security Architecture, Forensic Analysis, Cryptography Basics  
