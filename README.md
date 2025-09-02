@@ -9,12 +9,12 @@ I am a cybersecurity professional focused on offensive security and cloud defens
 ---
 
 ### 📜 Certifications
-- **eJPT** – eLearnSecurity Junior Penetration Tester  
-- **OSCP** – Offensive Security Certified Professional  
 - **CompTIA Security+**  
 - **CCNA** – Cisco Certified Network Associate  
-- **AWS Certified Security – Specialty**  
+- **eJPT** – eLearnSecurity Junior Penetration Tester  
+- **OSCP** – Offensive Security Certified Professional
 - **AWS Certified Solutions Architect – Associate**  
+- **AWS Certified Security – Specialty**  
 - **CISSP** – Certified Information Systems Security Professional  
 - **CCSP** – Certified Cloud Security Professional  
 
