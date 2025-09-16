@@ -8,13 +8,6 @@ I am a cybersecurity professional focused on offensive security and cloud defens
 
 ---
 
-### 📜 Certifications
-- **CompTIA Security+**  
-- **CCNA** – Cisco Certified Network Associate  
-- **OSCP** – Offensive Security Certified Professional
-
----
-
 ### 🛠️ Core Competencies
 - **Offensive Security:** Penetration Testing, Red Teaming, Exploit Development, Social Engineering, Post-Exploitation  
 - **Application & Network Security:** Web App Security, Secure Coding, Wireless Security, Network Analysis  
