@@ -1,6 +1,6 @@
 Hi 👋 My name is **Constantine**  
 
-**Red Team Operator | Offensive Cybersecurity Specialist | Cloud Security Engineer**  
+**Red Team Operator | Offensive Cybersecurity Specialist**  
 
 I am a cybersecurity professional focused on offensive security and cloud defense. My expertise lies in simulating advanced adversaries, uncovering vulnerabilities, and strengthening both on-premise and cloud infrastructures through penetration testing, exploit development, and red team operations. I bring a blend of offensive tradecraft and cloud security engineering to help organizations anticipate, withstand, and respond to modern cyber threats.  
 
