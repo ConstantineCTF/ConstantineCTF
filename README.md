@@ -16,7 +16,7 @@ I am a cybersecurity professional specializing in red teaming within cloud envir
 - **Threat & Risk Management:** Cloud Risk Assessment, Security Auditing for Cloud Services, Incident Response in Cloud Incidents, Forensic Analysis  
 - **Advanced Techniques:** Reverse Engineering, Phishing Campaign Design, Social Engineering in Cloud Contexts, Cryptography for Cloud Data  
 
-### 🌐 Cloud Platforms Expertise
+### Cloud Platforms Expertise
 - **AWS:** EC2, S3, Lambda, IAM, VPC Security, GuardDuty Analysis, CloudTrail Auditing  
 - **Azure:** Azure AD, VMs, Blob Storage, Functions, Security Center, Sentinel Threat Hunting  
 - **GCP:** Compute Engine, Cloud Storage, Cloud Functions, IAM, VPC Flow Logs, Security Command Center  
