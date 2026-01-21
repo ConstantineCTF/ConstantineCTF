@@ -1,29 +1,45 @@
-Hi 👋 My name is **Constantine**  
+# Constantine  
 
-**Cloud Red Team Operator | Offensive Cloud Security Specialist**  
+**Offensive Security Researcher | Advanced Red Team Operator**  
 
-I am a cybersecurity professional specializing in red teaming within cloud environments, focusing on offensive security and cloud defense. My expertise centers on simulating advanced adversaries in cloud infrastructures like AWS, Azure, and GCP, uncovering vulnerabilities, and bolstering cloud security through penetration testing, exploit development, and red team operations. I combine offensive tradecraft with deep cloud security engineering to help organizations anticipate, withstand, and respond to cloud-native cyber threats, ensuring robust defenses in hybrid and multi-cloud setups.  
+I execute sophisticated threat simulations and offensive security research against enterprise infrastructures. My work identifies architectural vulnerabilities and exploitation paths that standard assessment methodologies cannot detect.  I utilize Go to engineer solutions when operational precision exceeds the capabilities of existing frameworks.
 
-* ✉️ Reach me at: **constantine.ctf@proton.me**  
+**Contact:** constantine.ctf@proton.me  
 
 ---
 
-### Core Competencies
-- **Cloud Red Teaming:** Cloud Penetration Testing, Adversary Emulation in AWS/Azure/GCP, Cloud Exploit Development, Lateral Movement in Cloud Environments  
-- **Offensive Cloud Security:** Cloud Privilege Escalation, Misconfiguration Exploitation, Cloud Asset Discovery, Serverless and Container Security Attacks  
-- **Cloud Security Architecture:** Secure Cloud Deployments, Identity and Access Management (IAM) Assessments, Data Protection in Cloud, Cloud Threat Modeling  
-- **Application & Network Security:** Web App Security, API Security Testing, Secure Coding for Cloud Apps, Network Analysis in Hybrid Environments  
-- **Threat & Risk Management:** Cloud Risk Assessment, Security Auditing for Cloud Services, Incident Response in Cloud Incidents, Forensic Analysis  
-- **Advanced Techniques:** Reverse Engineering, Phishing Campaign Design, Social Engineering in Cloud Contexts, Cryptography for Cloud Data  
+## Certifications
 
-### Cloud Platforms Expertise
-- **AWS:** EC2, S3, Lambda, IAM, VPC Security, GuardDuty Analysis, CloudTrail Auditing  
-- **Azure:** Azure AD, VMs, Blob Storage, Functions, Security Center, Sentinel Threat Hunting  
-- **GCP:** Compute Engine, Cloud Storage, Cloud Functions, IAM, VPC Flow Logs, Security Command Center  
+**eJPT** (2025) | **PNPT** (2026) | **OSCP** *(In Progress)* | **CCSP** *(In Progress)*
 
-### Recent Engagements
-- Conducted red team exercises in multi-cloud environments, identifying zero-day misconfigurations and lateral movement vectors.  
-- Led cloud penetration testing for Fortune 13 clients, reducing exposure to data breaches by 40%.  
-- Developed custom exploits for serverless functions and containerized applications in production cloud setups.  
+---
 
-Feel free to connect for discussions on cloud red teaming strategies or collaborations!
+## Expertise
+
+**Advanced Red Team Operations**  
+Adversary simulation campaigns replicating APT-level tradecraft.  Full kill-chain execution from reconnaissance to objective completion in environments with enterprise-grade security controls.
+
+**Offensive Security Research**  
+Discovery and weaponization of novel attack vectors across cloud platforms, enterprise applications, and network infrastructures. Focus on architectural exploitation and zero-day research. 
+
+**Exploit Development & Evasion**  
+Custom exploit engineering and defensive bypass techniques targeting modern security controls—EDR, SIEM, network monitoring.  Operational security maintained throughout engagement lifecycle.
+
+**Cloud Attack Path Analysis**  
+Identification of critical weaknesses in multi-cloud architectures through analysis of identity systems, API boundaries, and inter-service trust relationships.
+
+---
+
+## Track Record
+
+Consistent full domain compromise across Fortune 50 enterprises with mature security programs. 
+
+Discovery and responsible disclosure of critical vulnerabilities in major cloud platforms. 
+
+Published research on advanced evasion techniques and offensive cloud methodologies.
+
+Development of exploitation approaches currently employed in professional security operations.
+
+---
+
+**Available for advanced offensive security engagements and research collaboration.**
