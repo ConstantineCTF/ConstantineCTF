@@ -10,7 +10,7 @@ I execute sophisticated threat simulations and offensive security research again
 
 ## Certifications
 
-**eJPT** (2025) | **PNPT** (2026) | **OSCP** *(In Progress)* | **CCSP** *(In Progress)*
+**eJPT** (2025) | **PNPT** (2026) | **OSWE** *(In Progress)* | **OSED** *(In Progress)*
 
 ---
 
