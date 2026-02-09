@@ -1,8 +1,8 @@
 # Constantine  
 
-**Offensive Security Researcher | Advanced Red Team Operator**  
+**Cloud Offensive Security Researcher | Private Cloud Red Team Specialist**  
 
-I execute sophisticated threat simulations and offensive security research against enterprise infrastructures. My work identifies architectural vulnerabilities and exploitation paths that standard assessment methodologies cannot detect.  I utilize Go to engineer solutions when operational precision exceeds the capabilities of existing frameworks.
+I execute advanced threat simulations against cloud infrastructures, identifying architectural vulnerabilities in private (OpenStack) and public (AWS/Azure) cloud environments that traditional assessments miss. I develop Go-based tooling to weaponize novel attack paths when existing frameworks lack operational precision.
 
 **Contact:** constantine.ctf@proton.me  
 
@@ -10,30 +10,30 @@ I execute sophisticated threat simulations and offensive security research again
 
 ## Expertise
 
-**Advanced Red Team Operations**  
-Adversary simulation campaigns replicating APT-level tradecraft.  Full kill-chain execution from reconnaissance to objective completion in environments with enterprise-grade security controls.
+**Cloud Red Team Operations**  
+Full-spectrum offensive campaigns against hybrid cloud environments—from initial access in tenant workloads to complete infrastructure compromise. Specialized in private cloud (OpenStack) and multi-cloud (AWS/Azure) attack surface exploitation.
 
-**Offensive Security Research**  
-Discovery and weaponization of novel attack vectors across cloud platforms, enterprise applications, and network infrastructures. Focus on architectural exploitation and zero-day research. 
+**Cloud Architecture Exploitation**  
+Discovery and weaponization of systemic weaknesses in cloud identity systems (Keystone, IAM, Azure AD), inter-service trust relationships, and hypervisor-layer vulnerabilities. Focus on privilege escalation chains that bypass traditional security controls.
 
-**Exploit Development & Evasion**  
-Custom exploit engineering and defensive bypass techniques targeting modern security controls—EDR, SIEM, network monitoring.  Operational security maintained throughout engagement lifecycle.
+**Offensive Cloud Tool Development**  
+Custom Go tooling for cloud-specific exploitation: metadata service abuse, storage layer subversion, network dominance, and hypervisor escape. Tools designed for memory-only execution with zero forensic footprint.
 
-**Cloud Attack Path Analysis**  
-Identification of critical weaknesses in multi-cloud architectures through analysis of identity systems, API boundaries, and inter-service trust relationships.
+**Private Cloud Security Research**  
+Deep analysis of OpenStack internals—Keystone token mechanics, Nova hypervisor interfaces, Cinder storage protocols, Neutron networking flows. Research focused on architectural exploitation rather than configuration scanning.
 
 ---
 
 ## Track Record
 
-Consistent full domain compromise across Fortune 50 enterprises with mature security programs. 
+Built and compromised production-grade OpenStack private clouds from scratch, demonstrating full infrastructure takeover via metadata service exploitation and hypervisor-layer attacks.
 
-Discovery and responsible disclosure of critical vulnerabilities in major cloud platforms. 
+Identified critical attack paths in default OpenStack deployments leading to complete tenant isolation bypass.
 
-Published research on advanced evasion techniques and offensive cloud methodologies.
+Research on cloud-native privilege escalation chains adopted by professional red teams for cloud engagement methodologies.
 
-Development of exploitation approaches currently employed in professional security operations.
+Development of memory-resident exploitation frameworks for cloud environments with advanced detection capabilities.
 
 ---
 
-**Available for advanced offensive security engagements and research collaboration.**
+**Available for cloud offensive security engagements, private cloud penetration testing, and research collaboration.**
